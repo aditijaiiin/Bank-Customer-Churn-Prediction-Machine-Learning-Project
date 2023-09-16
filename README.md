@@ -5,6 +5,7 @@ Customer churn, or attrition occurs when customers cease their relationship with
 Predicting customer churn is a critical task for financial institutions. 
 
 In this project, we aim to create a classification model to predict whether a bank customer will churn or not based on various independent variables.
+Check the python code <a href =""> here</a>.
 
 ## Objectives
 The primary objective is to build an accurate classification model to predict customer churn. 
